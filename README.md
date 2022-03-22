@@ -1,3 +1,21 @@
+**Yii2, AJAX, PHP, JQUERY, Database**
+
+Basic requirements:
+
+1. Responsive & cross browser task implementation;
+2. Forms should submit using action and Ajax;
+3. All of the form inputs are required;
+4. Cases and reviews should be sliders;
+5. Create one pop up containing form as well;
+6. Forms should begin with HTML::beginForm, links should contain Url::to;
+7. Posts should be rendered from the Database.
+
+Mockup: https://www.figma.com/file/8QM0E5qfL5MC2QInshpNrT/?node-id=0%3A1
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -58,3 +76,6 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+
+
+
