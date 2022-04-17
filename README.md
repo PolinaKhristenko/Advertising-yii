@@ -1,5 +1,8 @@
 **Yii2, AJAX, PHP, JQUERY, Database**
 
+<img width="566" alt="ads" src="https://user-images.githubusercontent.com/88159970/163731393-5307708b-159d-41d5-aa2e-e028c000c971.png">
+
+
 Basic requirements:
 
 1. Responsive & cross browser task implementation;
